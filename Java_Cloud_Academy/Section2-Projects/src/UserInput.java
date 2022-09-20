@@ -7,7 +7,7 @@ public class UserInput {
 
         String name;
         int age;
-        int number;
+        double number;
         String city;
 
         System.out.println("What is your name? ");
@@ -25,7 +25,7 @@ public class UserInput {
         NEXTLINE() eg keyboard.nextLine(); to consume the new line!
          */
         System.out.println("Give us your favourite number and I will double it !");
-        number = keyboard.nextInt();
+        number = keyboard.nextDouble();
         number *= 2;
 
         keyboard.nextLine();
