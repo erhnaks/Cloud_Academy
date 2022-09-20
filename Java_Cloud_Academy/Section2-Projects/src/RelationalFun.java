@@ -16,6 +16,7 @@ The Relational Operators
         int myAge = 37;
         int yourAge = 20;
         int bobsAge = 20;
+        int currentAge = 30;
 
 
         String myName = "John";
@@ -41,6 +42,10 @@ The Relational Operators
         boolean nameComparision = myName.equals(yourName);
 
         System.out.println("do names match? " + nameComparision);
+
+        boolean age = currentAge >= 21;
+
+        System.out.println("Is my current age greater than or equals to 21? " + age );
 
 
     } //end of main
