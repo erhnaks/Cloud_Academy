@@ -16,8 +16,8 @@ public class AritmethicFun {
        int result = a + b;
        int difference = a - b ;
        int product = a * b;
-       int quotient = a / b;
-       int remainder = a % b;
+       int quotient = b / a;
+       int remainder = b % a;
 
        System.out.println("Result is " + result);
        System.out.println("Difference is " + difference);
