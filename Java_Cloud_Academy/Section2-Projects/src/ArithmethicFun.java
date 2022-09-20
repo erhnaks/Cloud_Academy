@@ -1,4 +1,4 @@
-public class AritmethicFun {
+public class ArithmethicFun {
    public static void main (String[] args) {
        /*
        Arithmetic operators are;
