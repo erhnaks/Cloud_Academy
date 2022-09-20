@@ -7,6 +7,7 @@ public class UserInput {
 
         String name;
         int age;
+        int number;
         String city;
 
         System.out.println("What is your name? ");
@@ -21,8 +22,12 @@ public class UserInput {
         after and Integer input. This is known as lost in stream. In order to get String input after and Integer Inpout from a user then
 
         YOU NEED TO USE AN EMPTY
-        NEXTLINE() eg keyboard.nextLine();
+        NEXTLINE() eg keyboard.nextLine(); to consume the new line!
          */
+        System.out.println("Give us your favourite number and I will double it !");
+        number = keyboard.nextInt();
+        number *= 2;
+
         keyboard.nextLine();
         System.out.println("where do you live? ");
 
@@ -30,8 +35,9 @@ public class UserInput {
 
         System.out.println("Hello " + name + "!");
 
-        System.out.println("You are " + age + " years old, " + "and you live in " + city);
-//        System.out.println("You live in " + city);
+        System.out.println("You are " + age + " years old, ");
+        System.out.println("Your doubled number is " + number);
+        System.out.println("You live in " + city);
 
 
 
