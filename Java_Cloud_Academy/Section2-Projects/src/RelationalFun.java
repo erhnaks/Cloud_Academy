@@ -17,6 +17,10 @@ The Relational Operators
         int yourAge = 20;
         int bobsAge = 20;
 
+
+        String myName = "John";
+        String yourName = "John";
+
         System.out.println("myBool is " + myBool);
         System.out.println("your boolean is " + yourBool);
 
@@ -32,6 +36,11 @@ The Relational Operators
         ageComparision = yourAge == bobsAge;
 
         System.out.println("yourage == bobsage? " + ageComparision);
+
+
+        boolean nameComparision = myName.equals(yourName);
+
+        System.out.println("do names match? " + nameComparision);
 
 
     } //end of main
