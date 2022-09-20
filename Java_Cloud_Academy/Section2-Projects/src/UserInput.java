@@ -30,8 +30,8 @@ public class UserInput {
 
         System.out.println("Hello " + name + "!");
 
-        System.out.println("You are " + age + " years old!");
-        System.out.println(" You live in " + city);
+        System.out.println("You are " + age + " years old, " + "and you live in " + city);
+//        System.out.println("You live in " + city);
 
 
 
