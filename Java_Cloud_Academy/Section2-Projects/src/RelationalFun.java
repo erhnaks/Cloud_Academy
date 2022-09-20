@@ -43,9 +43,9 @@ The Relational Operators
 
         System.out.println("do names match? " + nameComparision);
 
-        boolean age = currentAge >= 21;
+        boolean isgreater21 = currentAge >= 21;
 
-        System.out.println("Is my current age greater than or equals to 21? " + age );
+        System.out.println("Is my current age greater than or equals to 21? " + isgreater21 );
 
 
     } //end of main
