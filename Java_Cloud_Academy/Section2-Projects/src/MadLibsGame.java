@@ -52,9 +52,11 @@ public class MadLibsGame {
         kingName = scan.nextLine();
 
 
-        System.out.println("There once was a " + adjective1 + " girl named " + girlName + ", who was a " + adjective2 + " " + occupation1 + " in the Kingdom of "
-        + place + ". She loved to wear " + clothing + " and enjoyed " + hobby + ". She wanted to marry the " + adjective3 + " " + occupation2 + " named " + boyName +
-                "but her father, King " + kingName + " forbid her from seeing him...");
+        System.out.println("There once was a " + adjective1 + " girl named " + girlName + ", who was a " +
+            adjective2 + " " + occupation1 + " in the Kingdom of "
+            + place + ". She loved to wear " + clothing + " and enjoyed " + hobby + ". She wanted to marry the "
+            + adjective3 + " " + occupation2 + " named " + boyName +
+            "but her father, King " + kingName + " forbid her from seeing him...");
 
 
 
