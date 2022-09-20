@@ -6,23 +6,32 @@ public class UserInput {
         Scanner keyboard = new Scanner(System.in);
 
         String name;
+        int age;
+        String city;
 
         System.out.println("What is your name? ");
 
         name = keyboard.nextLine();
 
-        int age;
-
         System.out.println("how old are you?");
 
         age = keyboard.nextInt();
+        /*
+        Whenever you ask for and Integer input from a user and then a String input then a known bug will not ask for a String input
+        after and Integer input. This is known as lost in stream. In order to get String input after and Integer Inpout from a user then
+
+        YOU NEED TO USE AN EMPTY
+        NEXTLINE() eg keyboard.nextLine();
+         */
+        keyboard.nextLine();
+        System.out.println("where do you live? ");
+
+        city = keyboard.nextLine();
 
         System.out.println("Hello " + name + "!");
 
         System.out.println("You are " + age + " years old!");
-
-
-
+        System.out.println(" You live in " + city);
 
 
 
