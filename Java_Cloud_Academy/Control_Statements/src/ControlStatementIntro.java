@@ -1,3 +1,10 @@
+/*
+3 Categories of Control Statements
+ - Sequential (Sequence)
+ - Selection (Decision)
+ - Repetition (Loops)
+ */
+
 public class ControlStatementIntro {
     public static void main(String[] args) {
         int age = 20;

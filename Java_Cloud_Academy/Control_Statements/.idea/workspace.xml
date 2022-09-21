@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c596973-6d95-401d-b7f5-23cc389ea326" name="Changes" comment="for loop Intro">
-      <change afterPath="$PROJECT_DIR$/src/MyOwnExercises.java" afterDir="false" />
-    </list>
+    <list default="true" id="9c596973-6d95-401d-b7f5-23cc389ea326" name="Changes" comment="Exercises" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663748696679</updated>
-      <workItem from="1663748698252" duration="2745000" />
+      <workItem from="1663748698252" duration="3137000" />
     </task>
     <task id="LOCAL-00001" summary="If-Else Intro">
       <created>1663750312734</created>
@@ -88,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663751533484</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Exercises">
+      <created>1663751880628</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663751880628</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +114,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="If-Else Intro" />
     <MESSAGE value="for loop Intro" />
-    <option name="LAST_COMMIT_MESSAGE" value="for loop Intro" />
+    <MESSAGE value="Exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercises" />
   </component>
 </project>
