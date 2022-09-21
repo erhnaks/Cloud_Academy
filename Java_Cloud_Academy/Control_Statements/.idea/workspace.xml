@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c596973-6d95-401d-b7f5-23cc389ea326" name="Changes" comment="Switch Cases">
-      <change afterPath="$PROJECT_DIR$/src/Fraternity_Exercise.java" afterDir="false" />
+    <list default="true" id="9c596973-6d95-401d-b7f5-23cc389ea326" name="Changes" comment="Selection control statements">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,7 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663748696679</updated>
       <workItem from="1663748698252" duration="4881000" />
-      <workItem from="1663754144228" duration="2874000" />
+      <workItem from="1663754144228" duration="4328000" />
     </task>
     <task id="LOCAL-00001" summary="If-Else Intro">
       <created>1663750312734</created>
@@ -143,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663756934614</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Selection control statements">
+      <created>1663758050858</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1663758050858</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +174,7 @@
     <MESSAGE value="End of Control Statement" />
     <MESSAGE value="End of Control IF Statement" />
     <MESSAGE value="Switch Cases" />
-    <option name="LAST_COMMIT_MESSAGE" value="Switch Cases" />
+    <MESSAGE value="Selection control statements" />
+    <option name="LAST_COMMIT_MESSAGE" value="Selection control statements" />
   </component>
 </project>
