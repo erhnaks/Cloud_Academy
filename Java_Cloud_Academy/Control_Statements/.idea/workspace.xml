@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c596973-6d95-401d-b7f5-23cc389ea326" name="Changes" comment="If-Else Intro">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ControlStatementIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ControlStatementIntro.java" afterDir="false" />
+    <list default="true" id="9c596973-6d95-401d-b7f5-23cc389ea326" name="Changes" comment="for loop Intro">
+      <change afterPath="$PROJECT_DIR$/src/MyOwnExercises.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +42,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MyOwnExercises">
     <configuration name="ControlStatementIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ControlStatementIntro" />
       <module name="Control_Statements" />
@@ -51,8 +50,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyOwnExercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyOwnExercises" />
+      <module name="Control_Statements" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyOwnExercises" />
         <item itemvalue="Application.ControlStatementIntro" />
       </list>
     </recent_temporary>
@@ -65,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663748696679</updated>
-      <workItem from="1663748698252" duration="2393000" />
+      <workItem from="1663748698252" duration="2745000" />
     </task>
     <task id="LOCAL-00001" summary="If-Else Intro">
       <created>1663750312734</created>
@@ -74,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663750312734</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="for loop Intro">
+      <created>1663751533484</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663751533484</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +108,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="If-Else Intro" />
-    <option name="LAST_COMMIT_MESSAGE" value="If-Else Intro" />
+    <MESSAGE value="for loop Intro" />
+    <option name="LAST_COMMIT_MESSAGE" value="for loop Intro" />
   </component>
 </project>
