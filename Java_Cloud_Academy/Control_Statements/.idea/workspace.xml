@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c596973-6d95-401d-b7f5-23cc389ea326" name="Changes" comment="End of Control Statement">
-      <change afterPath="$PROJECT_DIR$/src/SelectionControlStatements.java" afterDir="false" />
+    <list default="true" id="9c596973-6d95-401d-b7f5-23cc389ea326" name="Changes" comment="End of Control IF Statement">
+      <change afterPath="$PROJECT_DIR$/src/SwitchCaseStatements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Control_Statements/ControlStatementIntro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Control_Statements/ControlStatementIntro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Control_Statements/SelectionControlStatements.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,10 +41,11 @@
     "WebServerToolWindowFactoryState": "false",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SelectionControl_If_Statements">
+  <component name="RunManager" selected="Application.SwitchCaseStatements">
     <configuration name="ControlStatementIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ControlStatementIntro" />
       <module name="Control_Statements" />
@@ -66,8 +67,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SwitchCaseStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwitchCaseStatements" />
+      <module name="Control_Statements" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SwitchCaseStatements" />
         <item itemvalue="Application.SelectionControl_If_Statements" />
         <item itemvalue="Application.MyOwnExercises" />
         <item itemvalue="Application.ControlStatementIntro" />
@@ -82,7 +91,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663748696679</updated>
-      <workItem from="1663748698252" duration="4477000" />
+      <workItem from="1663748698252" duration="4881000" />
+      <workItem from="1663754144228" duration="1903000" />
     </task>
     <task id="LOCAL-00001" summary="If-Else Intro">
       <created>1663750312734</created>
@@ -112,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663752302512</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="End of Control IF Statement">
+      <created>1663753752555</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663753752555</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +152,7 @@
     <MESSAGE value="for loop Intro" />
     <MESSAGE value="Exercises" />
     <MESSAGE value="End of Control Statement" />
-    <option name="LAST_COMMIT_MESSAGE" value="End of Control Statement" />
+    <MESSAGE value="End of Control IF Statement" />
+    <option name="LAST_COMMIT_MESSAGE" value="End of Control IF Statement" />
   </component>
 </project>
