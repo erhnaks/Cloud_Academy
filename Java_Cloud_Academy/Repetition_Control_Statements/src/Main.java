@@ -1,7 +1,28 @@
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
 
+Scanner scan = new Scanner(System.in);
 
+int input;
+
+
+        System.out.println("Enter a positive number");
+        System.out.println("Enter a negative number to exit!");
+
+        input = scan.nextInt();
+
+        while(input > 0){
+            System.out.println(input + " is a positive number");
+
+            System.out.println("Enter a positive number");
+            System.out.println("Enter a negative number to exit!");
+
+            input = scan.nextInt();
+
+        }
+        System.out.println("Done!");
 
 
 
