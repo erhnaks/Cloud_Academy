@@ -1,7 +1,11 @@
 public class Main {
     public static void main(String[] args) {
 
-        int count = 0;
+
+
+
+
+//        int count = 0;
 
 //        while (count < 10) {
 //            System.out.println(count);
@@ -16,6 +20,11 @@ public class Main {
 //        }
 //        while(count2 <10);
 
+
+
+//    for (int i=0; i < 10; i++){
+//        System.out.println(i);
+//    }
 
     }
 }
