@@ -9,7 +9,7 @@ public class SumFun_Exercises {
         int num1;
         int num2;
 
-        System.out.println("Please enter your first number to add:");
+        System.out.println("Please enter your first number to add or enter a negative number to exit!");
         num1 = scan.nextInt();
         System.out.println("Please enter your second number:");
         num2 = scan.nextInt();
