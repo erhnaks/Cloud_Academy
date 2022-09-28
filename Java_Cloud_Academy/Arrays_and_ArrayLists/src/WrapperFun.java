@@ -27,6 +27,17 @@ public class WrapperFun {
         System.out.println(parsedValue);
 
 
+        String randomValue = "4.60";
+
+        double parsedDoubleValue = Double.parseDouble(randomValue);
+
+        parsedDoubleValue += 10;
+
+        System.out.println(parsedDoubleValue);
+
+
+
+
 
     } // end of main
 }
