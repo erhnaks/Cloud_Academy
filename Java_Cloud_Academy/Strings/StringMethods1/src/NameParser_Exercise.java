@@ -12,7 +12,7 @@ public class NameParser_Exercise {
         String upper;
         String lower;
 
-        System.out.println("Please enter your name and surname: ");
+        System.out.println("Please enter your full name: ");
 
         fullName = scan.nextLine();
 
@@ -25,6 +25,13 @@ public class NameParser_Exercise {
         lower = fullName.toLowerCase();
         System.out.println("Your full name in lower case is: " + lower);
 
+        int indexOfSpace = fullName.indexOf(" ");
+
+        name = fullName.substring(0, indexOfSpace);
+        lastName = fullName.substring(indexOfSpace + 1);
+
+        System.out.println("Your first name is: " + name.toLowerCase());
+        System.out.println("Your last name is: " + lastName.toUpperCase());
 
     } // end of main
 
