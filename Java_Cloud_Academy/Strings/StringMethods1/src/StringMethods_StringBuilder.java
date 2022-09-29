@@ -20,6 +20,8 @@ public class StringMethods_StringBuilder {
 
         System.out.println(sb);
 
+        sb.replace(0, 5, "Dr. ");
+        System.out.println(sb);
     } // end of main
 
 }
