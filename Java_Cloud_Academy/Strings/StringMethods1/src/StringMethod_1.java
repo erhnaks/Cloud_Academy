@@ -5,6 +5,7 @@ public class StringMethod_1 {
         String name = "John Doe";
         String name1 = "John Doe";
         String name2 = "Rob Barrister";
+        String name3 = "My name";
 
         for (int i = 0; i < name.length(); i++) {
 
@@ -24,6 +25,12 @@ public class StringMethod_1 {
             System.out.println("name > name2");
         } else {
             System.out.println(" name <= name2 ");
+        }
+        System.out.println();
+        if (name2.compareTo(name3) > 0) {
+            System.out.println("name2 > name3 ");
+        } else {
+            System.out.println("name2 <= name3");
         }
 
 
