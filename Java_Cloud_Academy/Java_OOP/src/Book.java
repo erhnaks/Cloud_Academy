@@ -15,23 +15,30 @@ public class Book {
 
     } // parameterized ctor
 
-    public String getAuthor(){
-      return author;
+    public String getAuthor() {
+        return author;
     }
 
-    public String getTitle(){
+    public String getTitle() {
         return title;
     }
 
-    public String getGenre(){
+    public String getGenre() {
         return genre;
     }
 
-    public int getNumPages(){
+    public int getNumPages() {
         return numPages;
     }
 
+    public void printBookDetails() {
+        System.out.println(title);
+        System.out.println("written by " + author + ",");
+        System.out.println("It has " + numPages + " pages, and its genre is " + genre + ".");
+        System.out.println();
 
+
+    }
 
 
 } // end of Book class
