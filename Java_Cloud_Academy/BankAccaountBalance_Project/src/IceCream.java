@@ -31,6 +31,12 @@ public class IceCream {
         return numScoops;
     }
 
+    public void printToppings(){
+        for(String topping : toppings){
+            System.out.println("\t" + topping);
+        }
+    }
+
 
 
 
