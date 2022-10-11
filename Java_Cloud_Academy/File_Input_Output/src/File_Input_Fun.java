@@ -12,11 +12,15 @@ public class File_Input_Fun {
             infile = new Scanner(new File("input.txt"));
 
             int input;
+            int sum = 0;
 
             while (infile.hasNext()) {
                 input = infile.nextInt();
                 System.out.println(input);
+                sum += input;
             }
+
+            System.out.println("Sum is: " + sum);
             infile.close();
 
         } catch (FileNotFoundException ex) {
