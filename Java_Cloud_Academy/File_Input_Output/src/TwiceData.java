@@ -31,6 +31,5 @@ public class TwiceData {
             System.out.println(ex.getMessage());
         }
 
-
     } // end of main
 }
