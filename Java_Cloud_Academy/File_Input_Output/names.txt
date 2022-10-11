@@ -1,1 +1,5 @@
-[Eric, Johnny, Sunny, Donny, Pony]
+Eric
+Johnny
+Sunny
+Donny
+Pony

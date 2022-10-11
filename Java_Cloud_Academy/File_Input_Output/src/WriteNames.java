@@ -19,8 +19,10 @@ public class WriteNames {
         try {
             PrintWriter pw = new PrintWriter("names.txt");
 
-            pw.println(names);
+            for (String name : names) {
 
+                pw.println(name);
+            }
             pw.close();
 
         } catch (FileNotFoundException ex) {
